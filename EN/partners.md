@@ -20,5 +20,8 @@ Partners from the SEA-EU universities:
 
 ![logo](https://github.com/motsmachines/joker/blob/main/Joker.png)
 ![logo](https://github.com/motsmachines/joker/blob/main/OFAI.png)
-![logo](
-![logo](
+![logo](https://github.com/motsmachines/joker/blob/main/SEA-EU.png)
+![logo](https://github.com/motsmachines/joker/blob/main/UBS.png)
+![logo](https://github.com/motsmachines/joker/blob/main/University%20of%20Gdansk.png)
+![logo](https://github.com/motsmachines/joker/blob/main/Universit%C3%A0%20-%20Malta.png)
+![logo](https://github.com/motsmachines/joker/blob/main/Universit%C3%A0%20-%20UDINE.png)
