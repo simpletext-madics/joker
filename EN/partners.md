@@ -4,13 +4,6 @@ Organizers:
 <br>HCTI EA-4249, UFR de Lettres et de Sciences Humaines
 <br>https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Ermakova--Liana
 <br>Porteuse du projet
-* Sílvia Araújo (University of Minho, Portugal)
-<br>Instituto de Letras e Ciências Humanas
-<br>http://cehum.ilch.uminho.pt/researchers/25
-* Radia Hannachi (UBS)
-<br>Maître de conférences de linguistique française, didactique du français langue étrangère
-<br>HCTI EA-4249, Faculté de Lettres, Langues, Sciences Humaines et Sociales, Département Ingénierie du Document
-<br>Participante
 * Benoît Jeanjean (UBO)
 <br>Pr Latin
 <br>HCTI EA-4249, UFR de Lettres et de Sciences Humaines
@@ -26,15 +19,21 @@ Organizers:
 <br>HCTI EA-4249, UFR ALL SHS, département d’anglais
 <br>https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Mathurin--Elise
 <br>Participante
-* Tristan Miller
-<br>Austrian Research Institute for Artificial Intelligence, Austria
-* Fabio Regattin
-<br>Università degli Studi di Udine, Italy
 * Mohamed Saki (UBO)
 <br>MCF en linguistique anglaise
 <br>HCTI EA-4249, UFR de Lettres et de Sciences Humaines
 <br>https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Saki--Mohamed
 <br>Participant
+* Radia Hannachi (UBS)
+<br>Maître de conférences de linguistique française, didactique du français langue étrangère
+<br>HCTI EA-4249, Faculté de Lettres, Langues, Sciences Humaines et Sociales, Département Ingénierie du Document
+<br>Participante
+* Sílvia Araújo (University of Minho, Portugal)
+<br>Instituto de Letras e Ciências Humanas
+<br>http://cehum.ilch.uminho.pt/researchers/25
+* Fabio Regattin (Università degli Studi di Udine, Italy)
+* Tristan Miller
+<br>Austrian Research Institute for Artificial Intelligence, Austria
 
 Partners from the SEA-EU universities:
 * Sergio Portelli (University of Malta)
