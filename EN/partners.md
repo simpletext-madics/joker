@@ -1,5 +1,6 @@
 Organizers:
 * Liana Ermakova
+
 MCF en informatique
 * Sílvia Araújo 
 * Radia Hannachi
