@@ -26,4 +26,4 @@ Partners from the SEA-EU universities:
 ![logo](https://github.com/motsmachines/joker/blob/main/Universit%C3%A0%20-%20Malta.png)
 ![logo](https://github.com/motsmachines/joker/blob/main/Universit%C3%A0%20-%20UDINE.png)
 
-<img src="Joker.png" width="100" /> ![](Joker.png)
+<img src="/Joker.png" width="100" /> ![](/Joker.png)
