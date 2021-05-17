@@ -2,6 +2,7 @@ Organizers:
 * Liana Ermakova
 
 MCF en informatique
+HCTI EA-4249, UFR de Lettres et de Sciences Humaines
 * Sílvia Araújo 
 * Radia Hannachi
 * Benoît Jeanjean
