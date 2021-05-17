@@ -13,3 +13,6 @@ Partners from the SEA-EU universities:
 * Sergio Portelli 
 * Ġorġ Mallia
 * Monika Bokiniec
+
+
+![logo](https://github.com/motsmachines/joker/blob/main/UBO.png)
