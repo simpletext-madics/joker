@@ -15,3 +15,10 @@ Partners from the SEA-EU universities:
 * Monika Bokiniec
 
 ![logo](https://github.com/motsmachines/joker/blob/main/UBO.png)
+
+![logo](https://github.com/motsmachines/joker/blob/main/CEHUM.png)
+
+![logo](https://github.com/motsmachines/joker/blob/main/Joker.png)
+![logo](https://github.com/motsmachines/joker/blob/main/OFAI.png)
+![logo](
+![logo](
