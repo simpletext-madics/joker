@@ -14,4 +14,4 @@ Partners from the SEA-EU universities:
 * Ġorġ Mallia
 * Monika Bokiniec
 
-<img src="Joker.png" width="50">
+<img src="https://github.com/motsmachines/joker/blob/70d509cb90cdcc249ea6414d89704c9320ff71e4/Joker.png" width="50">
