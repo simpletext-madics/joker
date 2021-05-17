@@ -1,21 +1,57 @@
 Organizers:
-* Liana Ermakova
-
-MCF en informatique
-HCTI EA-4249, UFR de Lettres et de Sciences Humaines
-* Sílvia Araújo 
-* Radia Hannachi
-* Benoît Jeanjean
-* Gaelle Le Corre  
-* Élise Mathurin
+* Liana Ermakova (UBO)
+<br>MCF en informatique
+<br>HCTI EA-4249, UFR de Lettres et de Sciences Humaines
+<br>https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Ermakova--Liana
+<br>Porteuse du projet
+* Sílvia Araújo (University of Minho, Portugal)
+<br>Instituto de Letras e Ciências Humanas
+<br>http://cehum.ilch.uminho.pt/researchers/25
+* Radia Hannachi (UBS)
+<br>Maître de conférences de linguistique française, didactique du français langue étrangère
+<br>HCTI EA-4249, Faculté de Lettres, Langues, Sciences Humaines et Sociales, Département Ingénierie du Document
+<br>Participante
+* Benoît Jeanjean (UBO)
+<br>Pr Latin
+<br>HCTI EA-4249, UFR de Lettres et de Sciences Humaines
+<br>https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Jeanjean__Benoit
+<br>Participant
+* Gaëlle Le Corre (UBO)
+<br>Maître de conférences linguistique anglaise
+<br>EA 4451 CRBC, UFR ALL SHS, département d’anglais
+<br>https://www.univ-brest.fr/crbc/menu/Membres+du+laboratoire/Enseignants-chercheurs/Ga-lle-Le-Corre
+<br>Participante
+* Élise Mathurin (UBO)
+<br>Maître de conférences linguistique anglaise, responsable de M1 master Rédacteur/Traducteur
+<br>HCTI EA-4249, UFR ALL SHS, département d’anglais
+<br>https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Mathurin--Elise
+<br>Participante
 * Tristan Miller
+<br>Austrian Research Institute for Artificial Intelligence, Austria
 * Fabio Regattin
-* Mohamed Saki
+<br>Università degli Studi di Udine, Italy
+* Mohamed Saki (UBO)
+<br>MCF en linguistique anglaise
+<br>HCTI EA-4249, UFR de Lettres et de Sciences Humaines
+<br>https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Saki--Mohamed
+<br>Participant
 
 Partners from the SEA-EU universities:
-* Sergio Portelli 
+* Sergio Portelli (University of Malta)
+<br>Associate Professor, Head of Department of Translation
+<br>Department of Translation, Terminology and Interpreting Studies, Faculty of Arts
+<br>https://www.um.edu.mt/profile/sergioportelli
+<br>Coordinateur dans l’université partenaire, specialist in translation
 * Ġorġ Mallia
-* Monika Bokiniec
+<br>Associate Professor
+<br>Media & Communications department, Faculty of Media & Knowledge Sciences
+<br>https://www.um.edu.mt/profile/gorgmallia
+<br>Participant, specialist in humour
+* Monika Bokiniec (University of Gdansk)
+<br>Associate Professor
+<br>Department of Aesthetics and Philosophy of Culture, Faculty of Social Sciences
+<br>https://ug.edu.pl/pracownik/413/monika_bokiniec
+<br>Coordinateur dans l’université partenaire
 
 ![logo](https://github.com/motsmachines/joker/blob/main/UBO.png)
 
