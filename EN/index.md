@@ -2,7 +2,7 @@
 ## Evaluation Campaign on Humour and Pun Translation
 
 [Partners](https://motsmachines.github.io/joker/EN/partners)
-![logo](https://github.com/motsmachines/joker/blob/main/OFAI.png)
+
 
 Intercultural communication relies heavily on translation. Both presuppose the development of different strategies to overcome the obstacles that can block or hinder intercultural dialogues. Humor remains by far one of the most difficult aspects of intercultural communication, as it relies heavily on cultural references and a subtle exploitation of the creativity, syntactic and lexicographic features of each language. 
 
@@ -36,4 +36,4 @@ Partners from the SEA-EU universities:
 
 _Ce projet a bénéficié d'une aide de l'état gérée par l'Agence Nationale de la Recherche au titre du programme « Investissements d'avenir » portant la Référence ANR-19-GURE-0001._
 
-
+![logo](https://github.com/motsmachines/joker/blob/main/OFAI.png)
