@@ -36,4 +36,4 @@ Partners from the SEA-EU universities:
 
 _This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" with the Reference ANR-19-GURE-0001._
 
-<img src="OFAI.png" width="100" />
+![Joker logo](https://github.com/motsmachines/joker/blob/main/Joker.png>)
