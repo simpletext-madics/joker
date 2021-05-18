@@ -42,7 +42,7 @@
 <br>http://cehum.ilch.uminho.pt/researchers/25
 
 * **Fabio Regattin (Università degli Studi di Udine, Italy)**
-* 
+
 * **Tristan Miller**
 <br>Austrian Research Institute for Artificial Intelligence, Austria
 
