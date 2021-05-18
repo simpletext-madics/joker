@@ -2,7 +2,7 @@
 * **Liana Ermakova (UBO)**
 <br>MCF en informatique
 <br>HCTI EA-4249, UFR de Lettres et de Sciences Humaines
-<br>https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Ermakova--Liana
+<br>(https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Ermakova--Liana)
 <br>*Project Leader*
 
 * **Benoît Jeanjean (UBO)**
