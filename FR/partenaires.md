@@ -1,4 +1,4 @@
-<img align="right" src="Joker.png">
+<img align="right" width="100" height="121" src="Joker.png">
 
 
 Organizers:
