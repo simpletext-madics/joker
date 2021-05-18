@@ -14,7 +14,7 @@
 <br>[https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Jeanjean__Benoit](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Jeanjean__Benoit)
 <br>*Participant*
 
-* **Gaëlle Le Corre (UBO)** <img align="right" width="200" src="UBO.png">
+* **Gaëlle Le Corre (UBO)** 
 <br>Maître de conférences linguistique anglaise
 <br>EA 4451 CRBC, UFR ALL SHS, département d’anglais
 <br>[https://www.univ-brest.fr/crbc/menu/Membres+du+laboratoire/Enseignants-chercheurs/Ga-lle-Le-Corre](https://www.univ-brest.fr/crbc/menu/Membres+du+laboratoire/Enseignants-chercheurs/Ga-lle-Le-Corre)
@@ -32,7 +32,7 @@
 <br>[https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Saki--Mohamed](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Saki--Mohamed)
 <br>*Participant*
 
-* **Radia Hannachi (UBS)** <img align="right" width="100" height="100" src="UBS.png">
+* **Radia Hannachi (UBS)** 
 <br>Maître de conférences de linguistique française, didactique du français langue étrangère
 <br>HCTI EA-4249, Faculté de Lettres, Langues, Sciences Humaines et Sociales, Département Ingénierie du Document
 <br>*Participant*
@@ -42,18 +42,18 @@
 <br>[http://cehum.ilch.uminho.pt/researchers/25](http://cehum.ilch.uminho.pt/researchers/25)
 
 
-* **Fabio Regattin (Università degli Studi di Udine, Italy)** <img align="right" width="200" height="150" src="Università - UDINE.png">
+* **Fabio Regattin (Università degli Studi di Udine, Italy)** 
 <br>[https://scholar.google.com/citations?user=6F5BfbIAAAAJ&hl=it](https://scholar.google.com/citations?user=6F5BfbIAAAAJ&hl=it)
 
 * **Tristan Miller** 
 <br>Austrian Research Institute for Artificial Intelligence, Austria
-<br>[https://logological.org/](https://logological.org/) <img align="right" width="100" height="100" src="OFAI.png">
+<br>[https://logological.org/](https://logological.org/) 
 
 ## Partners from the SEA-EU universities: <img align="right" width="150" height="150" src="SEA-EU.png">
 
 * **Sergio Portelli (University of Malta)** 
 <br>Associate Professor, Head of Department of Translation
-<br>Department of Translation, Terminology and Interpreting Studies, Faculty of Arts <img align="right" width="120" height="100" src="Università - Malta.png">
+<br>Department of Translation, Terminology and Interpreting Studies, Faculty of Arts 
 <br>[https://www.um.edu.mt/profile/sergioportelli](https://www.um.edu.mt/profile/sergioportelli)
 <br>*Coordinateur dans l’université partenaire, specialist in translation*
 
@@ -63,7 +63,7 @@
 <br>[https://www.um.edu.mt/profile/gorgmallia](https://www.um.edu.mt/profile/gorgmallia)
 <br>*Participant, specialist in humour*
 
-* **Monika Bokiniec (University of Gdansk)** <img align="right" width="150" height="150" src="University of Gdansk.png">
+* **Monika Bokiniec (University of Gdansk)** 
 <br>Associate Professor
 <br>Department of Aesthetics and Philosophy of Culture, Faculty of Social Sciences
 <br>[https://ug.edu.pl/pracownik/413/monika_bokiniec](https://ug.edu.pl/pracownik/413/monika_bokiniec)
