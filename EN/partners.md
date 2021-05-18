@@ -46,15 +46,17 @@
 <br> Associate Professor
 <br>Department of Humanities and Social Sciences
 <br>[Link to profile](http://cehum.ilch.uminho.pt/researchers/25)
-
+<br>*Participant*
 
 * **Fabio Regattin (Università degli Studi di Udine, Italy)** 
 <br>Department of Language and Literature, Communication, Education and Society
 <br>[Link to profile](https://scholar.google.com/citations?user=6F5BfbIAAAAJ&hl=it)
+<br>*Participant*
 
 * **Tristan Miller (Austrian Research Institute for Artificial Intelligence, Austria)**
 <br>Language and Interaction Technologies Group at OFAI
 <br>[Link to profile](https://logological.org/) 
+<br>*Participant*
 
 ## Partners from the SEA-EU universities: <img align="right" width="150" height="150" src="SEA-EU.png">
 * **Sergio Portelli (University of Malta)** 
