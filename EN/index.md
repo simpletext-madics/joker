@@ -1,4 +1,4 @@
-# JOKER
+# JokeR
 <p align="center">
   <img src="Joker.png" width="120" height="142">
 </p>
