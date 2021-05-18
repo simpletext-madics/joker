@@ -2,7 +2,7 @@
   <img src="Joker.png" width="120" height="142">
 </p>
 
-[Home](index) | [Project](project) | Partners | [<img src="drapeau FR.png" width="20">](https://motsmachines.github.io/joker/FR/) 
+[Home](index) | [Project](project) | Partners | [<img src="drapeau FR.png" width="20">](https://motsmachines.github.io/joker/FR/partenaires) 
 ## Organizers: 
 * **Liana Ermakova (UBO)**
 <br>IT Lecturer (MCF)
