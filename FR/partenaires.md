@@ -4,6 +4,7 @@
 </p>
 
 [Accueil](index) | [Projet](projet) | Partenaires | [<img src="drapeau EN.png" width="20">](/FR)
+<br>
 
 ## Organisat·eur·rice·s :
 * **Liana Ermakova (UBO)**
