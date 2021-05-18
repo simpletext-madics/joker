@@ -43,6 +43,7 @@
 
 * **Tristan Miller**
 <br>Austrian Research Institute for Artificial Intelligence, Austria
+<br>https://logological.org/
 
 ## Partners from the SEA-EU universities:
 
