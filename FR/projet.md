@@ -4,6 +4,7 @@
 </p>
 
 [Accueil](index) | Projet | [Partenaires](partenaires) | [<img src="drapeau EN.png" width="20">](joker/EN/projet)
+<br>
 
 **Plus de contenu prochainement.**
 
