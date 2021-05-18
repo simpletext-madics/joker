@@ -30,7 +30,7 @@
 <br>[https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Saki--Mohamed](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Saki--Mohamed)
 <br>*Participant*
 
-* **Radia Hannachi (UBS)** <img align="right" width="150" height="150" src="UBS.png">
+* **Radia Hannachi (UBS)** <img align="right" width="100" height="100" src="UBS.png">
 <br>Maître de conférences de linguistique française, didactique du français langue étrangère
 <br>HCTI EA-4249, Faculté de Lettres, Langues, Sciences Humaines et Sociales, Département Ingénierie du Document
 <br>*Participant*
@@ -42,7 +42,7 @@
 * **Fabio Regattin (Università degli Studi di Udine, Italy)** <img align="right" width="150" height="150" src="Università - Udine.png">
 <br>[https://scholar.google.com/citations?user=6F5BfbIAAAAJ&hl=it](https://scholar.google.com/citations?user=6F5BfbIAAAAJ&hl=it)
 
-* **Tristan Miller** <img align="right" width="150" height="150" src="OFAI.png">
+* **Tristan Miller** <img align="right" width="100" height="100" src="OFAI.png">
 <br>Austrian Research Institute for Artificial Intelligence, Austria
 <br>[https://logological.org/](https://logological.org/)
 
