@@ -40,14 +40,17 @@
 <br>*Participant*
 
 * **Sílvia Araújo (University of Minho, Portugal)**
+<br> Associate Professor
 <br>Department of Humanities and Social Sciences
 <br>[Link to profile](http://cehum.ilch.uminho.pt/researchers/25)
 
 
 * **Fabio Regattin (Università degli Studi di Udine, Italy)** 
+<br>Department of language and literature, communication, education and society
 <br>[Link to profile](https://scholar.google.com/citations?user=6F5BfbIAAAAJ&hl=it)
 
 * **Tristan Miller (Austrian Research Institute for Artificial Intelligence, Austria)**
+<br>Language and Interaction Technologies Group at OFAI
 <br>[Link to profile](https://logological.org/) 
 
 ## Partners from the SEA-EU universities: <img align="right" width="150" height="150" src="SEA-EU.png">
@@ -71,4 +74,3 @@
 <br>*Partner university coordinator*
 
 <img src="UBO.png" width="100"> <img src="CEHUM.png" width="100"> <img src="Università - Malta.png" width="100"> <img src="Università - UDINE.png" width="100"> <img src="University of Gdansk.png" width="100"> <img src="OFAI.png" width="100"> <img src="UBS.png" width="100"> 
-
