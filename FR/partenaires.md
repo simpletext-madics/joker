@@ -1,4 +1,4 @@
-[Accueil](https://motsmachines.github.io/joker/FR/) | [<img src="drapeau FR.png" width="20">](https://motsmachines.github.io/joker/FR/)
+[Accueil](https://motsmachines.github.io/joker/FR/) | [<img src="drapeau EN.png" width="20">](https://motsmachines.github.io/joker/EN/)
 
 <img align="right" width="120" height="142" src="Joker.png">
 
