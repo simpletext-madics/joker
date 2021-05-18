@@ -58,7 +58,7 @@
 <br>[Link to profile](https://www.um.edu.mt/profile/sergioportelli)
 <br>*Partner university coordinator, specialist in translation*
 
-* **Ġorġ Mallia**
+* **Ġorġ Mallia (University of Malta)**
 <br>Associate Professor
 <br>Media & Communications department, Faculty of Media & Knowledge Sciences
 <br>[Link to profile](https://www.um.edu.mt/profile/gorgmallia)
