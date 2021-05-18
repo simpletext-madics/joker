@@ -54,7 +54,7 @@
 <br>Associate Professor, Head of Department of Translation
 <br>Department of Translation, Terminology and Interpreting Studies, Faculty of Arts 
 <br>[https://www.um.edu.mt/profile/sergioportelli](https://www.um.edu.mt/profile/sergioportelli)
-<br>*Coordinateur dans l’université partenaire, specialist in translation*
+<br>*Partner university coordinator, specialist in translation*
 
 * **Ġorġ Mallia**
 <br>Associate Professor
