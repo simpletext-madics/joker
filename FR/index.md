@@ -1,4 +1,4 @@
-<img align="center" width="120" height="142" src="Joker.png">
+<div style="text-align:center"><img align="center" width="120" height="142" src="Joker.png"></div>
 
 [<img src="drapeau EN.png" width="20">](https://motsmachines.github.io/joker/EN/)
 
