@@ -3,7 +3,7 @@
   <img src="Joker.png" width="120" height="142">
 </p>
 
-[Accueil](index) | [Projet](projet) | Partenaires | [<img src="drapeau EN.png" width="20">](/FR)
+[Accueil](index) | [Projet](projet) | Partenaires | [<img src="drapeau EN.png" width="20">](/EN/partners)
 <br>
 
 ## Organisat·eur·rice·s :
