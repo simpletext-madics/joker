@@ -79,4 +79,4 @@
 <img src="UBO.png" width="160"> <img src="Cehum.png" width="130"> <img src="Università - Malta.png" width="130"> <img src="Università - UDINE.png" width="130"> <img src="University of Gdansk.png" width="100"> <img src="OFAI.png" width="100"> <img src="UBS.png" width="130">
 </p>
 
-*Ce projet a bénéficié d'une aide de l'état gérée par l'Agence Nationale de la Recherche au titre du programme « Investissements d'avenir » portant la Référence ANR-19-GURE-0001.*
+<br>*Ce projet a bénéficié d'une aide de l'état gérée par l'Agence Nationale de la Recherche au titre du programme « Investissements d'avenir » portant la Référence ANR-19-GURE-0001.*
