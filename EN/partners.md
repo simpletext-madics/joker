@@ -69,7 +69,7 @@
 <br>[https://ug.edu.pl/pracownik/413/monika_bokiniec](https://ug.edu.pl/pracownik/413/monika_bokiniec)
 <br>*Coordinateur dans l’université partenaire*
 
-<img src="UBO.png" width="100"><img src="CEHUM.png" width="100"><img src="UBS.png" width="100"><img src="Università - Malta.png" width="100">
+<img src="UBO.png" width="100"><img src="CEHUM.png" width="100"><img src="UBS.png" width="100"> <img src="Università - Malta.png" width="100">
 
 <img src="Università - UDINE.png" width="100"><img src="University of Gdansk.png" width="100"><img src="OFAI.png" width="100">
 
