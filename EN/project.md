@@ -1,4 +1,3 @@
-# JOKER
 ## Evaluation Campaign on Humour and Pun Translation
 
 <p align="center">
