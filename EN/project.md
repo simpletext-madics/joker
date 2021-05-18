@@ -17,3 +17,5 @@ The aim of this evaluation campaign is two-fold:
 The first year, JOKER will be a workshop with two pilot tasks:
 * humour classification 
 * pun translation
+
+_This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" with the Reference ANR-19-GURE-0001._
