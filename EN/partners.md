@@ -46,7 +46,7 @@
 <br>Austrian Research Institute for Artificial Intelligence, Austria
 <br>[https://logological.org/](https://logological.org/)
 
-## Partners from the SEA-EU universities:
+## Partners from the SEA-EU universities: <img align="right" width="150" height="150" src="SEA-EU.png">
 
 * **Sergio Portelli (University of Malta)** <img align="right" width="120" height="100" src="Università - Malta.png">
 <br>Associate Professor, Head of Department of Translation
