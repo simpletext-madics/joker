@@ -1,4 +1,6 @@
-# Partners <img align="right" width="150" height="150" src="Joker.png">
+<img align="right" width="150" height="150" src="Joker.png">
+
+
 ## Organizers: 
 * **Liana Ermakova (UBO)**
 <br>MCF en informatique
