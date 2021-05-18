@@ -1,3 +1,6 @@
+<img align="right" src="Joker.png">
+
+
 Organizers:
 * Liana Ermakova (UBO)
 <br>MCF en informatique
