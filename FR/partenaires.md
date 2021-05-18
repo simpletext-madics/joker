@@ -16,13 +16,13 @@
 
 * **Gaëlle Le Corre (UBO)**
 <br>MCF en linguistique anglaise
-<br>EA 4451 CRBC, UFR ALL SHS, département d’anglais
+<br>EA 4451 CRBC, UFR ALL SHS, Département d’Anglais
 <br>https://www.univ-brest.fr/crbc/menu/Membres+du+laboratoire/Enseignants-chercheurs/Ga-lle-Le-Corre
 <br>*Participante*
 
 * **Élise Mathurin (UBO)**
 <br>MCF en linguistique anglaise, responsable du M1 master Rédacteur/Traducteur
-<br>HCTI EA-4249, UFR ALL SHS, département d’anglais
+<br>HCTI EA-4249, UFR ALL SHS, Département d’Anglais
 <br>https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Mathurin--Elise
 <br>*Participante*
 
@@ -43,8 +43,7 @@
 
 * **Fabio Regattin (Università degli Studi di Udine, Italy)**
 
-* **Tristan Miller**
-<br>Austrian Research Institute for Artificial Intelligence, Austria
+* **Tristan Miller (Austrian Research Institute for Artificial Intelligence, Austria)**
 
 ## Partenaires des universités SEA-EU : <img align="right" width="150" height="150" src="SEA-EU.png">
 * **Sergio Portelli (University of Malta)**
@@ -55,7 +54,7 @@
 
 * **Ġorġ Mallia**
 <br>MCF
-<br>Media & Communications department, Faculty of Media & Knowledge Sciences
+<br>Media & Communications Department, Faculty of Media & Knowledge Sciences
 <br>https://www.um.edu.mt/profile/gorgmallia
 <br>*Participant, specialiste de l'humour*
 
