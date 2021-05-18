@@ -8,17 +8,17 @@ Organizers:
 <br>https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Ermakova--Liana
 <br>Porteuse du projet
 * Benoît Jeanjean (UBO)
-<br>Pr Latin
+<br>Professeur de latin
 <br>HCTI EA-4249, UFR de Lettres et de Sciences Humaines
 <br>https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Jeanjean__Benoit
 <br>Participant
 * Gaëlle Le Corre (UBO)
-<br>Maître de conférences linguistique anglaise
+<br>MCF en linguistique anglaise
 <br>EA 4451 CRBC, UFR ALL SHS, département d’anglais
 <br>https://www.univ-brest.fr/crbc/menu/Membres+du+laboratoire/Enseignants-chercheurs/Ga-lle-Le-Corre
 <br>Participante
 * Élise Mathurin (UBO)
-<br>Maître de conférences linguistique anglaise, responsable de M1 master Rédacteur/Traducteur
+<br>MCF en linguistique anglaise, responsable du M1 master Rédacteur/Traducteur
 <br>HCTI EA-4249, UFR ALL SHS, département d’anglais
 <br>https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Mathurin--Elise
 <br>Participante
@@ -28,7 +28,7 @@ Organizers:
 <br>https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Saki--Mohamed
 <br>Participant
 * Radia Hannachi (UBS)
-<br>Maître de conférences de linguistique française, didactique du français langue étrangère
+<br>MCF en linguistique française, didactique du français langue étrangère
 <br>HCTI EA-4249, Faculté de Lettres, Langues, Sciences Humaines et Sociales, Département Ingénierie du Document
 <br>Participante
 * Sílvia Araújo (University of Minho, Portugal)
@@ -38,27 +38,25 @@ Organizers:
 * Tristan Miller
 <br>Austrian Research Institute for Artificial Intelligence, Austria
 
-Partners from the SEA-EU universities:
+Partenaires des universités SEA-EU : <img align="right" width="150" height="150" src="SEA-EU.png">
 * Sergio Portelli (University of Malta)
-<br>Associate Professor, Head of Department of Translation
+<br>MCF, Directeur du Département de Traduction
 <br>Department of Translation, Terminology and Interpreting Studies, Faculty of Arts
 <br>https://www.um.edu.mt/profile/sergioportelli
-<br>Coordinateur dans l’université partenaire, specialist in translation
+<br>Coordinateur dans l’université partenaire, specialiste en traduction
 * Ġorġ Mallia
-<br>Associate Professor
+<br>MCF
 <br>Media & Communications department, Faculty of Media & Knowledge Sciences
 <br>https://www.um.edu.mt/profile/gorgmallia
-<br>Participant, specialist in humour
+<br>Participant, specialiste de l'humour
 * Monika Bokiniec (University of Gdansk)
-<br>Associate Professor
+<br>MCF
 <br>Department of Aesthetics and Philosophy of Culture, Faculty of Social Sciences
 <br>https://ug.edu.pl/pracownik/413/monika_bokiniec
 <br>Coordinateur dans l’université partenaire
 
 ![logo](https://github.com/motsmachines/joker/blob/main/UBO.png)
-
 ![logo](https://github.com/motsmachines/joker/blob/main/CEHUM.png)
-
 ![logo](https://github.com/motsmachines/joker/blob/main/Joker.png)
 ![logo](https://github.com/motsmachines/joker/blob/main/OFAI.png)
 ![logo](https://github.com/motsmachines/joker/blob/main/SEA-EU.png)
@@ -66,5 +64,3 @@ Partners from the SEA-EU universities:
 ![logo](https://github.com/motsmachines/joker/blob/main/University%20of%20Gdansk.png)
 ![logo](https://github.com/motsmachines/joker/blob/main/Universit%C3%A0%20-%20Malta.png)
 ![logo](https://github.com/motsmachines/joker/blob/main/Universit%C3%A0%20-%20UDINE.png)
-
-<img src="/Joker.png" width="100" /> ![](/Joker.png)
