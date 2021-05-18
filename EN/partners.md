@@ -1,8 +1,4 @@
-<img align="center" width="120" height="142" src="Joker.png">
 
-<center><width="120" height="142" src="Joker.png"><center>
-<p align="center">
-  
   <img src="Joker.png" width="120" height="142">
 </p> 
 
