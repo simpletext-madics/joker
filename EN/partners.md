@@ -1,4 +1,4 @@
-<img align="right" width="150" height="170" src="Joker.png">
+<img align="right" width="100" height="121" src="Joker.png">
 
 
 ## Organizers: 
@@ -67,7 +67,7 @@
 <br>Associate Professor
 <br>Department of Aesthetics and Philosophy of Culture, Faculty of Social Sciences
 <br>[https://ug.edu.pl/pracownik/413/monika_bokiniec](https://ug.edu.pl/pracownik/413/monika_bokiniec)
-<br>*Coordinateur dans l’université partenaire*
+<br>*Partner university coordinator*
 
 <img src="UBO.png" width="100"> <img src="CEHUM.png" width="100"> <img src="Università - Malta.png" width="100"> <img src="Università - UDINE.png" width="100"> <img src="University of Gdansk.png" width="100"> <img src="OFAI.png" width="100"> <img src="UBS.png" width="100"> 
 
