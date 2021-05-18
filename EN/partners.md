@@ -67,7 +67,7 @@
 
 <img src="UBO.png" width="100">
 <img src="CEHUM.png" width="100">
-![Joker logo](Joker.png) { width=50% height=50% }
+<img src="Joker.png" width="100">
 <img src="OFAI.png" width="100">
 <img src="SEA-EU.png" width="100">
 <img src="UBS.png" width="100">
