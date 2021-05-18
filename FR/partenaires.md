@@ -59,7 +59,7 @@
 <br>[Lien vers le profil](https://www.um.edu.mt/profile/sergioportelli)
 <br>*Coordinateur dans l’université partenaire, specialiste de la traduction*
 
-* **Ġorġ Mallia**
+* **Ġorġ Mallia (University of Malta)**
 <br>MCF
 <br>Media & Communications Department, Faculty of Media & Knowledge Sciences
 <br>[Lien vers le profil](https://www.um.edu.mt/profile/gorgmallia)
