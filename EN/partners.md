@@ -41,13 +41,13 @@
 <br>Instituto de Letras e Ciências Humanas
 <br>[http://cehum.ilch.uminho.pt/researchers/25](http://cehum.ilch.uminho.pt/researchers/25)
 
-<img align="right" width="150" height="150" src="Università - UDINE.png">
-* **Fabio Regattin (Università degli Studi di Udine, Italy)** 
+
+* **Fabio Regattin (Università degli Studi di Udine, Italy)** <img align="right" width="150" height="150" src="Università - UDINE.png">
 <br>[https://scholar.google.com/citations?user=6F5BfbIAAAAJ&hl=it](https://scholar.google.com/citations?user=6F5BfbIAAAAJ&hl=it)
 
-* **Tristan Miller** <img align="right" width="100" height="100" src="OFAI.png">
+* **Tristan Miller** 
 <br>Austrian Research Institute for Artificial Intelligence, Austria
-<br>[https://logological.org/](https://logological.org/)
+<br>[https://logological.org/](https://logological.org/) <img align="right" width="100" height="100" src="OFAI.png">
 
 ## Partners from the SEA-EU universities: <img align="right" width="150" height="150" src="SEA-EU.png">
 
