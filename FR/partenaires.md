@@ -3,7 +3,7 @@
   <img src="Joker.png" width="120" height="142">
 </p>
 
-[Accueil](FR/) | [<img src="drapeau EN.png" width="20">](JokeR/EN/)
+[Accueil](index) | [Projet](projet) | Partenaires | [<img src="drapeau EN.png" width="20">](/FR)
 
 ## Organisat·eur·rice·s :
 * **Liana Ermakova (UBO)**
