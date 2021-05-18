@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" width="120" height="142" src="Joker.png">
+  <img src="Joker.png" width="120" height="142">
 </p>
 
 [<img src="drapeau EN.png" width="20">](https://motsmachines.github.io/joker/EN/)
