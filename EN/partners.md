@@ -76,8 +76,9 @@
 <br>*Partner university coordinator*
 
 <p align="center">
-<img src="UBO.png" width="160"> <img src="UBS.png" width="150"> <img src="Cehum.png" width="180"> <img src="Università - Malta.png" width="200">
-<br><img src="Università - UDINE.png" width="200"> <img src="University of Gdansk.png" width="120"> <img src="OFAI.png" width="90">
+<img src="UBO.png" width="160"> <img src="UBS.png" width="150"> <img src="Cehum.png" width="180">
+<br><img src="Università - Malta.png" width="200"> <img src="Università - UDINE.png" width="200">
+<br><img src="University of Gdansk.png" width="120"> <img src="OFAI.png" width="90">
 </p>
 
 <br>*This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" with the Reference ANR-19-GURE-0001.*
