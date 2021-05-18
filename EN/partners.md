@@ -1,9 +1,7 @@
 <img align="right" width="120" height="142" src="Joker.png">
 [Home](https://motsmachines.github.io/joker/EN/index)
 
-<a href="(https://motsmachines.github.io/joker/FR/index">
-<img src="drapeauFR.png">
-</a>
+[<img src="drapeau FR.png" width="20">](https://motsmachines.github.io/joker/FR/index)
 
 ## Organizers: 
 * **Liana Ermakova (UBO)**
