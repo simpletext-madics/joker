@@ -48,9 +48,9 @@
 
 ## Partners from the SEA-EU universities: <img align="right" width="150" height="150" src="SEA-EU.png">
 
-* **Sergio Portelli (University of Malta)** <img align="right" width="120" height="100" src="Università - Malta.png">
+* **Sergio Portelli (University of Malta)** 
 <br>Associate Professor, Head of Department of Translation
-<br>Department of Translation, Terminology and Interpreting Studies, Faculty of Arts
+<br>Department of Translation, Terminology and Interpreting Studies, Faculty of Arts <img align="right" width="120" height="100" src="Università - Malta.png">
 <br>[https://www.um.edu.mt/profile/sergioportelli](https://www.um.edu.mt/profile/sergioportelli)
 <br>*Coordinateur dans l’université partenaire, specialist in translation*
 
