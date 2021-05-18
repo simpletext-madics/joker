@@ -3,7 +3,7 @@
   <img src="Joker.png" width="120" height="142">
 </p>
 
-[]() | Accueil | [Projet](projet) | [Partenaires](partenaires) | [<img src="drapeau EN.png" width="20">](joker/EN/)
+Accueil | [Projet](projet) | [Partenaires](partenaires) | [<img src="drapeau EN.png" width="20">](joker/EN/)
 <br>
 
 ## Interculturalité et localisation de l'humour et des jeux de mots
