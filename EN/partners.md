@@ -1,4 +1,4 @@
-## Organizers:
+## Organizers: <img align="right" width="100" height="100" src="Joker.png">
 * **Liana Ermakova (UBO)**
 <br>MCF en informatique
 <br>HCTI EA-4249, UFR de Lettres et de Sciences Humaines
