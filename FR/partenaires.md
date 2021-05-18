@@ -7,34 +7,42 @@
 <br>HCTI EA-4249, UFR de Lettres et de Sciences Humaines
 <br>https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Ermakova--Liana
 <br>*Porteuse du projet*
+
 * **Benoît Jeanjean (UBO)**
 <br>Professeur de latin
 <br>HCTI EA-4249, UFR de Lettres et de Sciences Humaines
 <br>https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Jeanjean__Benoit
 <br>*Participant*
+
 * **Gaëlle Le Corre (UBO)**
 <br>MCF en linguistique anglaise
 <br>EA 4451 CRBC, UFR ALL SHS, département d’anglais
 <br>https://www.univ-brest.fr/crbc/menu/Membres+du+laboratoire/Enseignants-chercheurs/Ga-lle-Le-Corre
 <br>*Participante*
+
 * **Élise Mathurin (UBO)**
 <br>MCF en linguistique anglaise, responsable du M1 master Rédacteur/Traducteur
 <br>HCTI EA-4249, UFR ALL SHS, département d’anglais
 <br>https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Mathurin--Elise
 <br>*Participante*
+
 * **Mohamed Saki (UBO)**
 <br>MCF en linguistique anglaise
 <br>HCTI EA-4249, UFR de Lettres et de Sciences Humaines
 <br>https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Saki--Mohamed
 <br>*Participant*
+
 * **Radia Hannachi (UBS)**
 <br>MCF en linguistique française, didactique du français langue étrangère
 <br>HCTI EA-4249, Faculté de Lettres, Langues, Sciences Humaines et Sociales, Département Ingénierie du Document
 <br>*Participante*
+
 * **Sílvia Araújo (University of Minho, Portugal)**
 <br>Instituto de Letras e Ciências Humanas
 <br>http://cehum.ilch.uminho.pt/researchers/25
+
 * **Fabio Regattin (Università degli Studi di Udine, Italy)**
+* 
 * **Tristan Miller**
 <br>Austrian Research Institute for Artificial Intelligence, Austria
 
@@ -44,11 +52,13 @@
 <br>Department of Translation, Terminology and Interpreting Studies, Faculty of Arts
 <br>https://www.um.edu.mt/profile/sergioportelli
 <br>*Coordinateur dans l’université partenaire, specialiste de la traduction*
+
 * **Ġorġ Mallia**
 <br>MCF
 <br>Media & Communications department, Faculty of Media & Knowledge Sciences
 <br>https://www.um.edu.mt/profile/gorgmallia
 <br>*Participant, specialiste de l'humour*
+
 * **Monika Bokiniec (University of Gdansk)**
 <br>MCF
 <br>Department of Aesthetics and Philosophy of Culture, Faculty of Social Sciences
