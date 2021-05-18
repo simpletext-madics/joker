@@ -43,35 +43,37 @@
 <br>*Participante*
 
 * **Sílvia Araújo (University of Minho, Portugal)**
-<br>Instituto de Letras e Ciências Humanas
+<br>MCF
+<br>Département de Lettres et Sciences Humaines
 <br>[Lien vers le profil](http://cehum.ilch.uminho.pt/researchers/25)
 <br>*Participante*
 
 * **Fabio Regattin (Università degli Studi di Udine, Italy)**
+<br>Département de Langue, Littérature, Communication, Éducation et Société
 <br>[Lien vers le profil](https://scholar.google.com/citations?user=6F5BfbIAAAAJ&hl=it)
 <br>*Participant*
 
 * **Tristan Miller (Austrian Research Institute for Artificial Intelligence, Austria)**
-<br>Language and Interaction Technologies Group at OFAI
+<br>Chercheur en langue et technologies de l'intéraction à l'OFAI
 <br>[Lien vers le profil](https://logological.org/)
 <br>*Participant*
 
 ## Partenaires des universités SEA-EU : <img align="right" width="150" height="150" src="SEA-EU.png">
 * **Sergio Portelli (University of Malta)**
 <br>MCF, Directeur du Département de Traduction
-<br>Department of Translation, Terminology and Interpreting Studies, Faculty of Arts
+<br>Département de Traduction, Terminologie et Interprétariat, Faculté des Arts
 <br>[Lien vers le profil](https://www.um.edu.mt/profile/sergioportelli)
 <br>*Coordinateur dans l’université partenaire, specialiste de la traduction*
 
 * **Ġorġ Mallia (University of Malta)**
 <br>MCF
-<br>Media & Communications Department, Faculty of Media & Knowledge Sciences
+<br>Département Médias et Communication, Faculté de Sciences et Multimédia
 <br>[Lien vers le profil](https://www.um.edu.mt/profile/gorgmallia)
 <br>*Participant, specialiste de l'humour*
 
 * **Monika Bokiniec (University of Gdansk)**
 <br>MCF
-<br>Department of Aesthetics and Philosophy of Culture, Faculty of Social Sciences
+<br>Département Arts et Philosophie, Faculté de Sciences Sociales
 <br>[Lien vers le profil](https://ug.edu.pl/pracownik/413/monika_bokiniec)
 <br>*Coordinatrice dans l’université partenaire*
 
