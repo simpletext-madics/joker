@@ -12,7 +12,7 @@
 <br>[https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Jeanjean__Benoit](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Jeanjean__Benoit)
 <br>*Participant*
 
-* **Gaëlle Le Corre (UBO)** <img align="right" width="150" src="UBO.png">
+* **Gaëlle Le Corre (UBO)** <img align="right" width="200" src="UBO.png">
 <br>Maître de conférences linguistique anglaise
 <br>EA 4451 CRBC, UFR ALL SHS, département d’anglais
 <br>[https://www.univ-brest.fr/crbc/menu/Membres+du+laboratoire/Enseignants-chercheurs/Ga-lle-Le-Corre](https://www.univ-brest.fr/crbc/menu/Membres+du+laboratoire/Enseignants-chercheurs/Ga-lle-Le-Corre)
