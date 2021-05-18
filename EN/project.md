@@ -5,7 +5,7 @@
   <img src="Joker.png" width="120" height="142">
 </p>
 
-[Home](https://motsmachines.github.io/joker/EN) | Project | [Partners](https://motsmachines.github.io/joker/EN/partners) | [<img src="drapeau FR.png" width="20">](https://motsmachines.github.io/joker/FR/) 
+[Home](index) | Project | [Partners](partners) | [<img src="drapeau FR.png" width="20">](https://motsmachines.github.io/joker/FR/) 
 
 
 Intercultural communication relies heavily on translation. Both presuppose the development of different strategies to overcome the obstacles that can block or hinder intercultural dialogues. Humor remains by far one of the most difficult aspects of intercultural communication, as it relies heavily on cultural references and a subtle exploitation of the creativity, syntactic and lexicographic features of each language. 
