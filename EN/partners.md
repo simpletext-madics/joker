@@ -1,4 +1,4 @@
-##Organizers:
+## Organizers:
 * **Liana Ermakova (UBO)**
 <br>MCF en informatique
 <br>HCTI EA-4249, UFR de Lettres et de Sciences Humaines
@@ -44,7 +44,7 @@
 * **Tristan Miller**
 <br>Austrian Research Institute for Artificial Intelligence, Austria
 
-##Partners from the SEA-EU universities:
+## Partners from the SEA-EU universities:
 
 * **Sergio Portelli (University of Malta)**
 <br>Associate Professor, Head of Department of Translation
