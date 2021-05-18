@@ -51,6 +51,7 @@
 <br>*Participant*
 
 * **Tristan Miller (Austrian Research Institute for Artificial Intelligence, Austria)**
+<br>Language and Interaction Technologies Group at OFAI
 <br>[Lien vers le profil](https://logological.org/)
 <br>*Participant*
 
@@ -73,4 +74,6 @@
 <br>[Lien vers le profil](https://ug.edu.pl/pracownik/413/monika_bokiniec)
 <br>*Coordinatrice dans l’université partenaire*
 
+<p align="center">
 <img src="UBO.png" width="100"> <img src="Cehum.png" width="100"> <img src="Università - Malta.png" width="100"> <img src="Università - UDINE.png" width="100"> <img src="University of Gdansk.png" width="100"> <img src="OFAI.png" width="100"> <img src="UBS.png" width="100">
+</p>
