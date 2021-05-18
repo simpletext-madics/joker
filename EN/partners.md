@@ -1,5 +1,5 @@
-# Partners
-## Organizers: <img align="right" width="100" height="100" src="Joker.png">
+# Partners <img align="right" width="100" height="100" src="Joker.png">
+## Organizers: 
 * **Liana Ermakova (UBO)**
 <br>MCF en informatique
 <br>HCTI EA-4249, UFR de Lettres et de Sciences Humaines
@@ -12,7 +12,7 @@
 <br>[https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Jeanjean__Benoit](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Jeanjean__Benoit)
 <br>*Participant*
 
-* **Gaëlle Le Corre (UBO)**
+* **Gaëlle Le Corre (UBO)** <img align="right" width="100" height="100" src="UBO.png">
 <br>Maître de conférences linguistique anglaise
 <br>EA 4451 CRBC, UFR ALL SHS, département d’anglais
 <br>[https://www.univ-brest.fr/crbc/menu/Membres+du+laboratoire/Enseignants-chercheurs/Ga-lle-Le-Corre](https://www.univ-brest.fr/crbc/menu/Membres+du+laboratoire/Enseignants-chercheurs/Ga-lle-Le-Corre)
