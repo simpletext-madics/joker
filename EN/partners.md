@@ -1,13 +1,16 @@
+# JokeR
 <p align="center">
   <img src="Joker.png" width="120" height="142">
 </p>
 
 [Home](index) | [Project](project) | Partners | [<img src="drapeau FR.png" width="20">](https://motsmachines.github.io/joker/FR/partenaires) 
+<br>
+
 ## Organizers: 
 * **Liana Ermakova (UBO)**
 <br>IT Lecturer (MCF)
 <br>HCTI EA-4249, Department of Humanities and Social Sciences
-<br> [Link to profile](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Ermakova--Liana)
+<br>[Link to profile](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Ermakova--Liana)
 <br>*Project Leader*
 
 * **Benoît Jeanjean (UBO)**
@@ -46,7 +49,7 @@
 
 
 * **Fabio Regattin (Università degli Studi di Udine, Italy)** 
-<br>Department of language and literature, communication, education and society
+<br>Department of Language and Literature, Communication, Education and Society
 <br>[Link to profile](https://scholar.google.com/citations?user=6F5BfbIAAAAJ&hl=it)
 
 * **Tristan Miller (Austrian Research Institute for Artificial Intelligence, Austria)**
@@ -54,7 +57,6 @@
 <br>[Link to profile](https://logological.org/) 
 
 ## Partners from the SEA-EU universities: <img align="right" width="150" height="150" src="SEA-EU.png">
-
 * **Sergio Portelli (University of Malta)** 
 <br>Associate Professor, Head of Department of Translation
 <br>Department of Translation, Terminology and Interpreting Studies, Faculty of Arts 
@@ -76,6 +78,5 @@
 <p align="center">
 <img src="UBO.png" width="130"> <img src="Cehum.png" width="130"> <img src="Università - Malta.png" width="130"> <img src="Università - UDINE.png" width="130"> <img src="University of Gdansk.png" width="130"> <img src="OFAI.png" width="130"> <img src="UBS.png" width="130">
 </p>
-
 
 <br>*This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" with the Reference ANR-19-GURE-0001.*
