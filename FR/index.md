@@ -3,7 +3,7 @@
   <img src="Joker.png" width="120" height="142">
 </p>
 
-Accueil | [Projet](https://motsmachines.github.io/joker/projet) | [Partenaires](https://motsmachines.github.io/joker/partenaires) | [<img src="drapeau EN.png" width="20">](https://motsmachines.github.io/joker/EN/)
+Accueil | [Projet](projet) | [Partenaires](partenaires) | [<img src="drapeau EN.png" width="20">](JokeR/EN/)
 
 ## Interculturalité et localisation de l'humour et des jeux de mots
 ## Résumé
