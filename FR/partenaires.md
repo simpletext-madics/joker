@@ -1,7 +1,7 @@
 <img align="right" width="120" height="142" src="Joker.png">
 
 
-## Organisateurs :
+## Organisat·eur·rice·s :
 * **Liana Ermakova (UBO)**
 <br>MCF en informatique
 <br>HCTI EA-4249, UFR de Lettres et de Sciences Humaines
