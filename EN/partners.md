@@ -1,4 +1,4 @@
-# Partners <img align="right" width="200" height="200" src="Joker.png">
+# Partners <img align="right" width="150" height="150" src="Joker.png">
 ## Organizers: 
 * **Liana Ermakova (UBO)**
 <br>MCF en informatique
@@ -30,7 +30,7 @@
 <br>[https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Saki--Mohamed](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Saki--Mohamed)
 <br>*Participant*
 
-* **Radia Hannachi (UBS)**
+* **Radia Hannachi (UBS)** <img align="right" width="150" height="150" src="UBS.png">
 <br>Maître de conférences de linguistique française, didactique du français langue étrangère
 <br>HCTI EA-4249, Faculté de Lettres, Langues, Sciences Humaines et Sociales, Département Ingénierie du Document
 <br>*Participant*
@@ -39,16 +39,16 @@
 <br>Instituto de Letras e Ciências Humanas
 <br>[http://cehum.ilch.uminho.pt/researchers/25](http://cehum.ilch.uminho.pt/researchers/25)
 
-* **Fabio Regattin (Università degli Studi di Udine, Italy)**
+* **Fabio Regattin (Università degli Studi di Udine, Italy)** <img align="right" width="150" height="150" src="Università - Udine.png">
 <br>[https://scholar.google.com/citations?user=6F5BfbIAAAAJ&hl=it](https://scholar.google.com/citations?user=6F5BfbIAAAAJ&hl=it)
 
-* **Tristan Miller**
+* **Tristan Miller** <img align="right" width="150" height="150" src="OFAI.png">
 <br>Austrian Research Institute for Artificial Intelligence, Austria
 <br>[https://logological.org/](https://logological.org/)
 
 ## Partners from the SEA-EU universities:
 
-* **Sergio Portelli (University of Malta)**
+* **Sergio Portelli (University of Malta)** <img align="right" width="150" height="150" src="Università - Malta.png">
 <br>Associate Professor, Head of Department of Translation
 <br>Department of Translation, Terminology and Interpreting Studies, Faculty of Arts
 <br>[https://www.um.edu.mt/profile/sergioportelli](https://www.um.edu.mt/profile/sergioportelli)
@@ -60,7 +60,7 @@
 <br>[https://www.um.edu.mt/profile/gorgmallia](https://www.um.edu.mt/profile/gorgmallia)
 <br>*Participant, specialist in humour*
 
-* **Monika Bokiniec (University of Gdansk)**
+* **Monika Bokiniec (University of Gdansk)** <img align="right" width="150" height="150" src="University of Gdansk.png">
 <br>Associate Professor
 <br>Department of Aesthetics and Philosophy of Culture, Faculty of Social Sciences
 <br>[https://ug.edu.pl/pracownik/413/monika_bokiniec](https://ug.edu.pl/pracownik/413/monika_bokiniec)
