@@ -1,1 +1,1 @@
-## More content will be available soon
+## More content will be available soon.
