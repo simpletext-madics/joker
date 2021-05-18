@@ -1,6 +1,6 @@
 <img align="centre" width="120" height="142" src="Joker.png">
 
-[Accueil](https://motsmachines.github.io/joker/FR/) | [<img src="drapeau EN.png" width="20">](https://motsmachines.github.io/joker/EN/)
+[<img src="drapeau EN.png" width="20">](https://motsmachines.github.io/joker/EN/)
 
 # Interculturalité et localisation de l'humour et des jeux de mots
 ## Résumé
