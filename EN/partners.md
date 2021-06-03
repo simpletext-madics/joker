@@ -43,7 +43,7 @@
 <br>*Participant*
 
 * **Sílvia Araújo (University of Minho, Portugal)**
-<br> Associate Professor
+<br>Associate Professor
 <br>Department of Humanities and Social Sciences
 <br>[Link to profile](http://cehum.ilch.uminho.pt/researchers/25)
 <br>*Participant*
@@ -76,6 +76,15 @@
 <br>Department of Aesthetics and Philosophy of Culture, Faculty of Social Sciences
 <br>[Link to profile](https://ug.edu.pl/pracownik/413/monika_bokiniec)
 <br>*Partner university coordinator*
+
+## Website maintenance:
+* **Adrien Couaillet (UBO)**
+<br>Technical Translation/Redaction Master's Degree's Student
+<br>Department of English
+
+* **Ludivine Grégoire (UBO)**
+<br>Technical Translation/Redaction Master's Degree's Student
+<br>Department of English
 
 <p align="center">
 <img src="UBO.png" width="160"> <img src="UBS.png" width="150"> <img src="Cehum.png" width="180">
