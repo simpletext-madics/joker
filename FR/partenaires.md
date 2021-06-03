@@ -77,6 +77,15 @@
 <br>[Lien vers le profil](https://ug.edu.pl/pracownik/413/monika_bokiniec)
 <br>*Coordinatrice dans l’université partenaire*
 
+## Website maintenance:
+* **Adrien Couaillet (UBO)**
+<br>Étudiant en master Rédacteur/Traducteur Technique
+<br>Département d'anglais
+
+* **Ludivine Grégoire (UBO)**
+<br>Étudiante en master Rédacteur/Traducteur Technique
+<br>Département d'anglais
+
 <p align="center">
 <img src="UBO.png" width="160"> <img src="UBS.png" width="150"> <img src="Cehum.png" width="180">
 <br><img src="Università - Malta.png" width="200"> <img src="Università - UDINE.png" width="200">
