@@ -7,7 +7,7 @@
 
 **Google Group :** https://groups.google.com/u/4/g/joker-project
 
-**Adresse mail :** [joker.humour.project@gmail.com](mailto:joker.humour.project@gmail.com)
+**Adresse e-mail :** [joker.humour.project@gmail.com](mailto:joker.humour.project@gmail.com)
 
 
 
