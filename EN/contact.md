@@ -2,7 +2,7 @@
 
 <br>
 
-## Contact Us via:
+## Contact us via:
 <br>
 **Twitter:** https://twitter.com/joker_research
 
