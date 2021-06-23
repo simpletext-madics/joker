@@ -14,12 +14,3 @@
 
 
 <br>*This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" with the Reference ANR-19-GURE-0001.*
-
-
-{% twitter https://twitter.com/i/moments/650667182356082688 maxwidth=500 %}
-
-<div class='jekyll-twitter-plugin' align="center">
-    {% twitter https://twitter.com/anaik96 maxwidth=500 limit=5 %}
-</div>
-
-Hello, test
