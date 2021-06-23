@@ -1,2 +1,2 @@
 theme: jekyll-theme-tactile
-gem 'jekyll-twitter-plugin'
+plugins: ['jekyll-twitter-plugin']
