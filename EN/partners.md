@@ -26,7 +26,7 @@
 <br>*Participant*
 
 * **Élise Mathurin (UBO)**
-<br>English Linguistics Lecturer (MCF), responsable de M1 master Rédacteur/Traducteur
+<br>English Linguistics Lecturer (MCF), in charge of the first-year students of the Technical Writing/Technical Translation master's degree.
 <br>HCTI EA-4249, UFR ALL SHS, Department of English
 <br>[Link to profile](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Mathurin--Elise)
 <br>*Participant*
