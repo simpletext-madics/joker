@@ -1,5 +1,4 @@
 theme: jekyll-theme-tactile
 
 plugins: ['jekyll-twitter-plugin']
- - jekyll-twitter-plugin
- - jekyll-gist
+
