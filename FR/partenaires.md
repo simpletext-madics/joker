@@ -77,7 +77,10 @@
 <br>[Lien vers le profil](https://ug.edu.pl/pracownik/413/monika_bokiniec)
 <br>*Coordinatrice dans l’université partenaire*
 
-## Website maintenance:
+* **Gordan Matas (University of Split)**
+<br>Département d'Anglais
+
+## Maintenance web :
 * **Adrien Couaillet (UBO)**
 <br>Étudiant en master Rédacteur/Traducteur Technique
 <br>Département d'anglais
