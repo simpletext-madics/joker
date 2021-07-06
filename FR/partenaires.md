@@ -104,7 +104,8 @@
 <p align="center">
 <img src="UBO.png" width="160"> <img src="UBS.png" width="150"> <img src="CRBC.png" width="150"> <img src="ENIB.png" width="150">
 <br><img src="Università - Malta.png" width="200"> <img src="University of Split.png" width="150"> <img src="Università - UDINE.png" width="200">
-<br><img src="University of Gdansk.png" width="120"> <img src="Cehum.png" width="180"> <img src="OFAI.png" width="90">
+<br><img src="University of Gdansk.png" width="120"> <img src="HCTI.png" width="180"> <img src="OFAI.png" width="90">
+<br><img src="Cehum.png" width="180">
 </p>
 
 <br>*Ce projet a bénéficié d'une aide de l'état gérée par l'Agence Nationale de la Recherche au titre du programme « Investissements d'avenir » portant la Référence ANR-19-GURE-0001.*
