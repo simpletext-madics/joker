@@ -102,7 +102,7 @@
 <br>*Stagiaire*
 
 <p align="center">
-<img src="UBO.png" width="160"> <img src="UBS.png" width="150"> <img src="CRBC.png" width="150"> <img src="ENIB.png" width="150">
+<img src="UBO.png" width="150"> <img src="UBS.png" width="150"> <img src="CRBC.png" width="150"> <img src="ENIB.png" width="130">
 <br><img src="Università - Malta.png" width="200"> <img src="University of Split.png" width="100"> <img src="Università - UDINE.png" width="200">
 <br><img src="University of Gdansk.png" width="120"> <img src="HCTI.png" width="80"> <img src="OFAI.png" width="90">
 <br><img src="Cehum.png" width="220">
