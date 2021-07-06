@@ -57,7 +57,7 @@
 * **Fabio Regattin (Università degli Studi di Udine, Italy)**
 <br>MCF en traduction français-italien
 <br>Département de Langue, Littérature, Communication, Éducation et Société
-<br>[Lien vers le profil](https://scholar.google.com/citations?user=6F5BfbIAAAAJ&hl=it)
+<br>[Lien vers le profil](https://people.uniud.it/page/fabio.regattin)
 <br>*Participant*
 
 * **Tristan Miller (Austrian Research Institute for Artificial Intelligence, Austria)**
