@@ -42,6 +42,12 @@
 <br>HCTI EA-4249, Faculty of Arts, Humanities and Social Sciences, "Département Ingénierie du Document"
 <br>*Participant*
 
+* **Anne-Gwenn Bosser (ENIB)**
+<br>Associate Professor
+<br>Lab-STICC (CNRS UMR 6285), Leader of the COMMEDIA Team
+<br>[Link to profile](https://labsticc.fr/en/directory/bosser-anne-gwenn)
+<br>*Participant*
+
 * **Sílvia Araújo (University of Minho, Portugal)**
 <br>Associate Professor
 <br>Department of Humanities and Social Sciences
