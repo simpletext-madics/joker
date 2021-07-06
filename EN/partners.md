@@ -43,20 +43,21 @@
 <br>*Participant*
 
 * **Anne-Gwenn Bosser (ENIB)**
-<br>Associate Professor
+<br>Associate Professor in Computational Sciences
 <br>Lab-STICC (CNRS UMR 6285), Leader of the COMMEDIA Team
 <br>[Link to profile](https://labsticc.fr/en/directory/bosser-anne-gwenn)
 <br>*Participant*
 
 * **Sílvia Araújo (University of Minho, Portugal)**
-<br>Associate Professor
+<br>Associate Professor in Corpus Linguistics, Technologies Applied to Languages and Digital Humanities
 <br>Department of Humanities and Social Sciences
 <br>[Link to profile](http://cehum.ilch.uminho.pt/researchers/25)
 <br>*Participant*
 
 * **Fabio Regattin (Università degli Studi di Udine, Italy)** 
+<br>Associate Professor in French to Italian Translation
 <br>Department of Language and Literature, Communication, Education and Society
-<br>[Link to profile](https://scholar.google.com/citations?user=6F5BfbIAAAAJ&hl=it)
+<br>[Link to profile](https://people.uniud.it/page/fabio.regattin)
 <br>*Participant*
 
 * **Tristan Miller (Austrian Research Institute for Artificial Intelligence, Austria)**
