@@ -78,13 +78,13 @@
 <br>[Lien vers le profil](https://www.um.edu.mt/profile/gorgmallia)
 <br>*Participant, specialiste de l'humour*
 
-* **Monika Bokiniec (University of Gdansk)**
+* **Monika Bokiniec (University of Gdansk, Poland)**
 <br>MCF
 <br>Département Arts et Philosophie, Faculté de Sciences Sociales
 <br>[Lien vers le profil](https://ug.edu.pl/pracownik/413/monika_bokiniec)
 <br>*Coordinatrice dans l’université partenaire*
 
-* **Gordan Matas (University of Split)**
+* **Gordan Matas (University of Split, Croatia)**
 <br>MCF
 <br>Département de Langue et de Littérature Anglaise
 <br>[Lien vers le profil](https://www.ffst.unist.hr/gordan.matas)
