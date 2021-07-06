@@ -8,7 +8,7 @@
 
 ## Organizers: 
 * **Liana Ermakova (UBO)**
-<br>IT Lecturer (MCF)
+<br>IT Lecturer
 <br>HCTI EA-4249, Department of Humanities and Social Sciences
 <br>[Link to profile](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Ermakova--Liana)
 <br>*Project Leader*
@@ -20,19 +20,19 @@
 <br>*Participant*
 
 * **Gaëlle Le Corre (UBO)** 
-<br>English Linguistics Lecturer (MCF)
+<br>English Linguistics Lecturer
 <br>EA 4451 CRBC, UFR ALL SHS, Department of English
 <br>[Link to profile](https://www.univ-brest.fr/crbc/menu/Membres+du+laboratoire/Enseignants-chercheurs/Ga-lle-Le-Corre)
 <br>*Participant*
 
 * **Élise Mathurin (UBO)**
-<br>English Linguistics Lecturer (MCF), in charge of the first-year students of the Technical Writing/Technical Translation master's degree.
+<br>English Linguistics Lecturer, in charge of the first-year students of the Technical Writing/Technical Translation master's degree.
 <br>HCTI EA-4249, UFR ALL SHS, Department of English
 <br>[Link to profile](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Mathurin--Elise)
 <br>*Participant*
 
 * **Mohamed Saki (UBO)**
-<br>English Linguistics Lecturer (MCF)
+<br>English Linguistics Lecturer
 <br>HCTI EA-4249, Department of Humanities and Social Sciences
 <br>[Link to profile](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Saki--Mohamed)
 <br>*Participant*
