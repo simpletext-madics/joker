@@ -16,6 +16,6 @@ Accueil | [Projet](projet) | [Partenaires](partenaires) | [Contact](contact) | [
 [Lien vers le site de l'évènement AI DAYS](https://ai-days.bzh/)
 <br>
 
-[Lien vers un résumé du projet JokeR]
+[Lien vers un résumé du projet JokeR](JOKER Brest AI.pdf)
 
 <br>*Ce projet a bénéficié d'une aide de l'état gérée par l'Agence Nationale de la Recherche au titre du programme « Investissements d'avenir » portant la Référence ANR-19-GURE-0001.*
