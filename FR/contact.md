@@ -2,9 +2,9 @@
 <p align="center">
   <img src="Joker.png" width="120" height="142">
 </p>
-
-[Accueil](index) (centré) | [Projet](projet) (centré) | [Partenaires](partenaires) (centré) | Contact (centré) | [<img src="drapeau EN.png" width="20">](https://motsmachines.github.io/joker/EN/contact) (centré)
-
+<tr>
+  <th align="center"> [Accueil](index)</th> | [Projet](projet) | [Partenaires](partenaires) | Contact | [<img src="drapeau EN.png" width="20">](https://motsmachines.github.io/joker/EN/contact)
+</tr>
 <br>
 
 ## Contactez-nous :
