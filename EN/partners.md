@@ -87,10 +87,12 @@
 * **Adrien Couaillet (UBO)**
 <br>Technical Translation/Redaction Master's Degree's Student
 <br>Department of English
+<br>*Intern*
 
 * **Ludivine Grégoire (UBO)**
 <br>Technical Translation/Redaction Master's Degree's Student
 <br>Department of English
+<br>*Intern*
 
 <p align="center">
 <img src="UBO.png" width="160"> <img src="UBS.png" width="150"> <img src="Cehum.png" width="180">
