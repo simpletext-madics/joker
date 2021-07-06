@@ -42,13 +42,20 @@
 <br>HCTI EA-4249, Faculté de Lettres, Langues, Sciences Humaines et Sociales, Département Ingénierie du Document
 <br>*Participante*
 
+* **Anne-Gwenn Bosser (ENIB)**
+<br>MCF en sciences de l'informatique
+<br>Lab-STICC (CNRS UMR 6285), Cheffe de l'équipe COMMEDIA
+<br>[Lien vers le profil](https://labsticc.fr/en/directory/bosser-anne-gwenn)
+<br>*Participante*
+
 * **Sílvia Araújo (University of Minho, Portugal)**
-<br>MCF
+<br>MCF en liguistique de corpus et en technologies appliquées au langage
 <br>Département de Lettres et Sciences Humaines
 <br>[Lien vers le profil](http://cehum.ilch.uminho.pt/researchers/25)
 <br>*Participante*
 
 * **Fabio Regattin (Università degli Studi di Udine, Italy)**
+<br>MCF en traduction français-italien
 <br>Département de Langue, Littérature, Communication, Éducation et Société
 <br>[Lien vers le profil](https://scholar.google.com/citations?user=6F5BfbIAAAAJ&hl=it)
 <br>*Participant*
@@ -78,16 +85,21 @@
 <br>*Coordinatrice dans l’université partenaire*
 
 * **Gordan Matas (University of Split)**
-<br>Département d'Anglais
+<br>MCF
+<br>Département de Langue et de Littérature Anglaise
+<br>[Lien vers le profil](https://www.ffst.unist.hr/gordan.matas)
+<br>*Coordinateur dans l’université partenaire*
 
 ## Maintenance web :
 * **Adrien Couaillet (UBO)**
 <br>Étudiant en master Rédacteur/Traducteur Technique
 <br>Département d'anglais
+<br>*Stagiaire*
 
 * **Ludivine Grégoire (UBO)**
 <br>Étudiante en master Rédacteur/Traducteur Technique
 <br>Département d'anglais
+<br>*Stagiaire*
 
 <p align="center">
 <img src="UBO.png" width="160"> <img src="UBS.png" width="150"> <img src="Cehum.png" width="180">
