@@ -78,7 +78,10 @@
 <br>*Partner university coordinator*
 
 * **Gordan Matas (University of Split)**
-<br>Department of English
+<br>Associate Professor
+<br>Department of Language and English Literature
+<br>[Link to profile](https://www.ffst.unist.hr/gordan.matas)
+<br>*Partner university coordinator*
 
 ## Website maintenance:
 * **Adrien Couaillet (UBO)**
