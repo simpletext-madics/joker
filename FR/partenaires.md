@@ -49,7 +49,7 @@
 <br>*Participante*
 
 * **Sílvia Araújo (University of Minho, Portugal)**
-<br>MCF en linguistique de corpus et en technologies appliquées au langage
+<br>MCF en linguistique de corpus, technologies appliquées au langage et humanités numériques
 <br>Département de Lettres et Sciences Humaines
 <br>[Lien vers le profil](http://cehum.ilch.uminho.pt/researchers/25)
 <br>*Participante*
