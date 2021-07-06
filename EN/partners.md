@@ -77,7 +77,7 @@
 <br>[Link to profile](https://ug.edu.pl/pracownik/413/monika_bokiniec)
 <br>*Partner university coordinator*
 
-* *** **Gordan Matas (University of Split)**
+* **Gordan Matas (University of Split)**
 <br>Department of English
 
 ## Website maintenance:
