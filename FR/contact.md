@@ -2,10 +2,10 @@
 <p align="center">
   <img src="Joker.png" width="120" height="142">
 </p>
-
+<div align="center">
 | [Accueil](index) | [Projet](projet) | [Partenaires](partenaires) | Contact | [<img src="drapeau EN.png" width="20">](https://motsmachines.github.io/joker/EN/contact) |
-| :-: | :-: | :-: | :-: | :-: |
-<br>
+</div>
+  <br>
 
 ## Contactez-nous :
 <br>
