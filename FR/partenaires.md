@@ -6,7 +6,7 @@
 [Accueil](index) | [Projet](projet) | Partenaires | [Contact](contact) | [<img src="drapeau EN.png" width="20">](https://motsmachines.github.io/joker/EN/partners)
 <br>
 
-## Organisat·eur·rice·s :
+## Organisateur·rice·s :
 * **Liana Ermakova (UBO)**
 <br>MCF en informatique
 <br>HCTI EA-4249, UFR de Lettres et de Sciences Humaines
