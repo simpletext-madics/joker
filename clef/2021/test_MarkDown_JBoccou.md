@@ -1,5 +1,5 @@
-Test//
-*emphasis single asterisk*//
+Test <br>
+*emphasis single asterisk* <br>
 **emphasis double asterisks**
 _emphasis single underscore_
 __emphasis double underscore__
