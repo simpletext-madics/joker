@@ -6,3 +6,4 @@ __emphasis double underscore__ <br>
 emphasis can be used in the *middle* of a word <br>
 \*this text is surrounded by literal asterisks\* <br>
 ~~text that has been struckthrough~~ <br>
+Use the `printf()` function. <br>
