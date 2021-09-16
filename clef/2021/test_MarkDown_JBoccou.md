@@ -7,3 +7,4 @@ emphasis can be used in the *middle* of a word <br>
 \*this text is surrounded by literal asterisks\* <br>
 ~~text that has been struckthrough~~ <br>
 Use the `printf()` function. <br>
+an inline link to [the 2022 Joker page](https://motsmachines.github.io/joker/clef/2021/test_MarkDown_JBoccou) looks like this
