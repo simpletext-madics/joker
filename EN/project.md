@@ -56,7 +56,7 @@ The JOKER workshop involves researchers from computer science and humanities/tra
 Computer scientists:
   </p>
   <p>
-<b>Liana Ermakova (pilot task chair)</b> has been an associate professor at the University of Western Brittany - UBO (Brest, France) since 2017. She participated in the INEX/CLEF Tweet Contextualization task in 2011-2014. She was also one of the organizers of CLEF 2017 Microblog Cultural Contextualization Content Analysis Task, CLEF 2016 Cultural micro-blog Contextualization Workshop, workshop Mots-Machines 2019-2020. She was the leader of the SimpleText@CLEF workshop in 2021. She leads the JOKER project financed by the SEA-EU search grant and supervises interns https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Ermakova--Liana
+<b>Liana Ermakova (pilot task chair)</b> has been an associate professor at the University of Western Brittany - UBO (Brest, France) since 2017. She participated in the INEX/CLEF Tweet Contextualization task in 2011-2014. She was also one of the organizers of CLEF 2017 Microblog Cultural Contextualization Content Analysis Task, CLEF 2016 Cultural micro-blog Contextualization Workshop, workshop Mots-Machines 2019-2020. She was the leader of the SimpleText@CLEF workshop in 2021. She leads the JOKER project financed by the SEA-EU search grant<sup><a href="#link2">2</a></sup> and supervises interns https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Ermakova--Liana
   </p>
   <p>
 <b>Tristan Miller</b> (Austrian Research Institute for Artificial Intelligence, Austria) is working on computational detection and interpretation of humour and leads the Computational Pun-derstanding: Computer-Assisted Translation (CAT) of Humorous Wordplay project. Within this project he developed the system PunCAT to assist in pun translation. He co-organized SEMEVAL-2017 shared task on the computational detection and interpretation of puns, SEMEVAL-2021 shared task on learning from disagreements as well as numerous panels at the International Society for Humor Studies Conference.  https://logological.org/ 
@@ -102,7 +102,7 @@ We plan to spread the information via the following channels:
     <li>Mailing lists: SIGIR, info-ic, madics, clef, ntcir, bulle-i3, ln, nlp-seminar, romip, <a href=mailto:"TRANSLATIO@jiscmail.ac.uk">TRANSLATIO@jiscmail.ac.uk</a>, organizers’ university mailing lists</li>
     <li>Social network promotion</li>
     <li>Information on organizers’ personal pages, the JOKER project network</li>
-    <li>Advertising Labs at CLEF 2021 and ECIR 2022 and other conferences, workshops and local events, e.g. the Mots-Machines seminar in Brest 2022, AI (artificial intelligence) DAYS.BZH, AESLA (Spanish Society for Applied Linguistics), AFIA (French Association for Artificial Intelligence) jams on generating poetic and funny texts</li>
+    <li>Advertising Labs at CLEF 2021 and ECIR 2022 and other conferences, workshops and local events, e.g. the Mots-Machines seminar in Brest 2022, AI (artificial intelligence) DAYS.BZH<sup><a href="#link3">3</a></sup>, AESLA<sup><a href="#link4">4</a></sup> (Spanish Society for Applied Linguistics), AFIA (French Association for Artificial Intelligence) jams on generating poetic and funny texts<sup><a href="#link5">5</a></sup></li>
   </ul>
 <h3>Expected length of the workshop at the conference is half-day:</h3>
   <ul>
@@ -115,7 +115,11 @@ We plan to spread the information via the following channels:
 <b>Acknowledgement</b>. This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" with the Reference ANR-19-GURE-0001.
   </p>
 <h3>Liens:</h3>
-  <p id="link1">https://motsmachines.github.io/joker/EN</p>
+  <p id="link1"><sup>1 </sup>https://motsmachines.github.io/joker/EN</p>
+  <p id="link2"><sup>2 </sup>https://www.univ-brest.fr/sea-eu/menu/appel-a-projets</p>
+  <p id="link3"><sup>3 </sup>https://frenchtech-brestplus.bzh/vous-avez-aime-brest-is-ai-en-2020-vous-adorerez-les-ai-days-bzh-en-2021/</p>
+  <p id="link3"><sup>4 </sup>https://aesla2020.udc.es/</p>
+  <p id="link3"><sup>5 </sup>http://afia-competitions.fr/2020-introduction/</p>
 <h3>References:</h3>
   <p>
 <p id="note1">[1]	‘SemEval-2021 Tasks’, SemEval-2021. https://semeval.github.io/SemEval2021/tasks.html (accessed Mar. 02, 2021).</p>
