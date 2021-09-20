@@ -6,7 +6,7 @@
 [Home](index) | Project | [Partners](partners) | [Contact Us](contact) | [<img src="drapeau FR.png" width="20">](https://motsmachines.github.io/joker/FR/projet)
 <br>
 
-  <h1 align="center">CLEF Workshop JOKER:</h1>
+  <h1 align="center">CLEF Workshop JOKER<sup ahref="#link1">1</sup>:</h1>
   <h2 align="center">Automatic Pun and Humour Translation</h2>
 <h3>Topics & Goals</h3>
   <p>
@@ -114,6 +114,8 @@ We plan to spread the information via the following channels:
   <p>
 <b>Acknowledgement</b>. This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" with the Reference ANR-19-GURE-0001.
   </p>
+<h3>Liens:</h3>
+  <p id="link1">https://motsmachines.github.io/joker/EN</p>
 <h3>References:</h3>
   <p>
 <p id="note1">[1]	‘SemEval-2021 Tasks’, SemEval-2021. https://semeval.github.io/SemEval2021/tasks.html (accessed Mar. 02, 2021).</p>
