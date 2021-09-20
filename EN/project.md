@@ -114,12 +114,6 @@ We plan to spread the information via the following channels:
   <p>
 <b>Acknowledgement</b>. This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" with the Reference ANR-19-GURE-0001.
   </p>
-<h3 id="link">Liens:</h3>
-  <p><sup>1 </sup>https://motsmachines.github.io/joker/EN</p>
-  <p><sup>2 </sup>https://www.univ-brest.fr/sea-eu/menu/appel-a-projets</p>
-  <p><sup>3 </sup>https://frenchtech-brestplus.bzh/vous-avez-aime-brest-is-ai-en-2020-vous-adorerez-les-ai-days-bzh-en-2021/</p>
-  <p><sup>4 </sup>https://aesla2020.udc.es/</p>
-  <p><sup>5 </sup>http://afia-competitions.fr/2020-introduction/</p>
 <h3 id="note1">References:</h3>
   <p>
 <p>[1]	‘SemEval-2021 Tasks’, SemEval-2021. https://semeval.github.io/SemEval2021/tasks.html (accessed Mar. 02, 2021).</p>
