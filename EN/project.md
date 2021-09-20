@@ -72,7 +72,7 @@ Computer scientists:
 <b>Radia Hannachi</b> is an Assistant Professor at the University of South Brittany. Her research interests focus on the use of ICT in language learning and teaching; corpus linguistics and data-driven learning; distance learning, learning-to-learn and autonomisation in language learning. R. Hannachi and S. Araújo will integrate pun translation and analysis in their language/translation classes to enrich the dataset.
   </p>
   <p>
-<b>Sílvia Araújo</b> is an Assistant Professor at the Department of Romance Studies of the University of Minho. Her main research interests are corpus linguistics, technologies applied to languages and digital humanities. Related to these areas, she has coordinated projects funded by FCT (Perfide, PortLinguE). She is director of the Master's Degree in Digital Humanities and a member of the Steering Committee of the Master's Degree in Translation and Multilingual Communication.  Furthermore, she coordinates the techLING annual international conference, devoted to the application of technology to languages and linguistics, which will reach its sixth edition in 2021. http://cehum.ilch.uminho.pt/researchers/25 
+<b>Sílvia Araújo</b> is an Assistant Professor at the Department of Romance Studies of the University of Minho. Her main research interests are corpus linguistics, technologies applied to languages and digital humanities. Related to these areas, she has coordinated projects funded by FCT (<a href="http://per-fide.ilch.uminho.pt/site.pl/index.en">Perfide, PortLinguE</a>). She is director of the Master's Degree in Digital Humanities and a member of the Steering Committee of the Master's Degree in Translation and Multilingual Communication.  Furthermore, she coordinates the techLING annual international conference, devoted to the application of technology to languages and linguistics, which will reach its sixth edition in 2021. http://cehum.ilch.uminho.pt/researchers/25 
   </p>
   <p>
 <b>Fabio Regattin</b> is an Assistant Professor at the Department of Language and Literature, Communication, Education and Society of Università degli Studi di Udine (Italy), where he teaches French-Italian translation. He is also a translator, mainly working for publishers and as a drama translator. He recently authored Traduction et évolution culturelle (L'Harmattan, 2018) and Tradurre un classico della scienza (with Ana Pano Alamán, Bononia University Press, 2015); he also edited two volumes on self-translation: Autotraduction - Pratiques, théories, histoires (Emil, 2020) and Gli scrittori si traducono (with Alessandra Ferraro, Emil, 2019). 
@@ -80,7 +80,7 @@ Computer scientists:
   <p>
 Other colleagues involved in the JOKER project:
   <ul>
-    <li>Benoît Jeanjean (HCTI EA-4249, UBO), Latin Professor, translator, chief of the LIBROS+ project</li>
+    <li>Benoît Jeanjean (HCTI EA-4249, UBO), Latin Professor, translator, chief of the <a href="https://www.univ-brest.fr/libros/">LIBROS+</a> project</li>
     <li>Gaëlle Le Corre (EA 4451 CRBC, UBO), English Linguistics Lecturer</li>
     <li>Mohamed Saki (HCTI EA-4249, UBO), English Linguistics Lecturer</li>
     <li>Sergio Portelli (Associate Professor, Head of Department of Translation, University of Malta)</li>
@@ -99,7 +99,7 @@ The  target audience are students and researchers in IR (task 1), NLP (task 2&3)
   <p>
 We plan to spread the information via the following channels:
   <ul>
-    <li>Mailing lists: SIGIR, info-ic, madics, clef, ntcir, bulle-i3, ln, nlp-seminar, romip, TRANSLATIO@jiscmail.ac.uk, organizers’ university mailing lists</li>
+    <li>Mailing lists: SIGIR, info-ic, madics, clef, ntcir, bulle-i3, ln, nlp-seminar, romip, <a href=mailto:"TRANSLATIO@jiscmail.ac.uk">TRANSLATIO@jiscmail.ac.uk</a>, organizers’ university mailing lists</li>
     <li>Social network promotion</li>
     <li>Information on organizers’ personal pages, the JOKER project network</li>
     <li>Advertising Labs at CLEF 2021 and ECIR 2022 and other conferences, workshops and local events, e.g. the Mots-Machines seminar in Brest 2022, AI (artificial intelligence) DAYS.BZH, AESLA (Spanish Society for Applied Linguistics), AFIA (French Association for Artificial Intelligence) jams on generating poetic and funny texts</li>
