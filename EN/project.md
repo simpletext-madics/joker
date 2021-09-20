@@ -102,7 +102,7 @@ We plan to spread the information via the following channels:
     <li>Mailing lists: SIGIR, info-ic, madics, clef, ntcir, bulle-i3, ln, nlp-seminar, romip, <a href=mailto:"TRANSLATIO@jiscmail.ac.uk">TRANSLATIO@jiscmail.ac.uk</a>, organizers’ university mailing lists</li>
     <li>Social network promotion</li>
     <li>Information on organizers’ personal pages, the JOKER project network</li>
-    <li>Advertising Labs at CLEF 2021 and ECIR 2022 and other conferences, workshops and local events, e.g. the Mots-Machines seminar in Brest 2022,  <a href="https://frenchtech-brestplus.bzh/vous-avez-aime-brest-is-ai-en-2020-vous-adorerez-les-ai-days-bzh-en-2021/">AI (artificial intelligence) DAYS.BZH</a>, AESLA<a href="https://aesla2020.udc.es/">(Spanish Society for Applied Linguistics)</a> , AFIA <a href="http://afia-competitions.fr/2020-introduction/">(French Association for Artificial Intelligence)</a> jams on generating poetic and funny texts</li>
+    <li>Advertising Labs at CLEF 2021 and ECIR 2022 and other conferences, workshops and local events, e.g. the Mots-Machines seminar in Brest 2022,  <a href="https://frenchtech-brestplus.bzh/vous-avez-aime-brest-is-ai-en-2020-vous-adorerez-les-ai-days-bzh-en-2021/">AI (artificial intelligence) DAYS.BZH</a>, AESLA <a href="https://aesla2020.udc.es/">(Spanish Society for Applied Linguistics)</a> , AFIA <a href="http://afia-competitions.fr/2020-introduction/">(French Association for Artificial Intelligence)</a> jams on generating poetic and funny texts</li>
   </ul>
 <h3>Expected length of the workshop at the conference is half-day:</h3>
   <ul>
