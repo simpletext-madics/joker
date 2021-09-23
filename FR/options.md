@@ -7,4 +7,4 @@
 <br>
 
 ## Options :
-<br> [PunCAT](https://github.com/OFAI/PunCAT)
+<br> [PunCAT](https://github.com/OFAI/PunCAT) : PunCAT est un prototype d’outil interactif utilisé pour la traduction assistée par ordinateur de jeux de mots. Bien qu’il soit facilement adaptable à n’importe quelle langue possédant un wordnet, PunCAT n’est pour l’instant compatible que pour la traduction de l’anglais vers l’allemand.
