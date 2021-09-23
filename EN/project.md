@@ -3,7 +3,7 @@
   <img src="Joker.png" width="120" height="142">
   </p>
 
-[Home](index) | Project | [Partners](partners) | [Contact Us](contact) | [Options](options) | [<img src="drapeau FR.png" width="20">](https://motsmachines.github.io/joker/FR/projet)
+[Home](index) | Project | [Partners](partners) | [Contact Us](contact) | [Tools](tools) | [<img src="drapeau FR.png" width="20">](https://motsmachines.github.io/joker/FR/projet)
 <br>
 
   <h1 align="center"><a href="https://motsmachines.github.io/joker/EN">CLEF Workshop JOKER</a>:</h1>
