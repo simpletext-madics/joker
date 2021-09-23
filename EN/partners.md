@@ -3,7 +3,7 @@
   <img src="Joker.png" width="120" height="142">
 </p>
 
-[Home](index) | [Project](project) | Partners | [Contact Us](contact) | [Options](options) | [<img src="drapeau FR.png" width="20">](https://motsmachines.github.io/joker/FR/partenaires) 
+[Home](index) | [Project](project) | Partners | [Contact Us](contact) | [Tools](tools) | [<img src="drapeau FR.png" width="20">](https://motsmachines.github.io/joker/FR/partenaires) 
 <br>
 
 ## Organizers: 
