@@ -7,4 +7,4 @@
 <br>
 
 ## Options :
-<br> [Lien vers le site de PunCAT](https://github.com/OFAI/PunCAT)
+<br> [PunCAT](https://github.com/OFAI/PunCAT)
