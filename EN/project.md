@@ -47,62 +47,7 @@ Data: We have already collected more than 1000 translated puns in English and Fr
   <p>
 For the tasks 2& 3, it is necessary to establish metrics for evaluating translation quality. Traditionally, machine translation quality is measured by the BLEU (Bilingual Evaluation Understudy) metric, which calculates vocabulary overlap between the candidate translation and the reference translation <a href="#note11">[11]</a>. However, no metric based on vocabulary overlap is applicable to evaluate creative language translation. First, we will opt for a questionnaire to be filled in by the annotators ("is the wordplay present in the translation?", "is the semantic field preserved in the translation?” etc.). At the end of the workshop, we will study the automation of the selected metrics. 
   </p>
-<h3>Organizers</h3>
-  <p>
-The JOKER workshop involves researchers from computer science and humanities/translation.
-  </p>
-  <p>
-Computer scientists:
-  </p>
-  <p>
-<b>Liana Ermakova (pilot task chair)</b> has been an associate professor at the University of Western Brittany - UBO (Brest, France) since 2017. She participated in the INEX/CLEF Tweet Contextualization task in 2011-2014. She was also one of the organizers of CLEF 2017 Microblog Cultural Contextualization Content Analysis Task, CLEF 2016 Cultural micro-blog Contextualization Workshop, workshop Mots-Machines 2019-2020. She was the leader of the SimpleText@CLEF workshop in 2021. She leads the JOKER project financed by the <a href="https://www.univ-brest.fr/sea-eu/menu/appel-a-projets">SEA-EU search grant</a> and supervises interns https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Ermakova--Liana
-  </p>
-  <p>
-<b>Tristan Miller</b> (Austrian Research Institute for Artificial Intelligence, Austria) is working on computational detection and interpretation of humour and leads the Computational Pun-derstanding: Computer-Assisted Translation (CAT) of Humorous Wordplay project. Within this project he developed the system PunCAT to assist in pun translation. He co-organized SEMEVAL-2017 shared task on the computational detection and interpretation of puns, SEMEVAL-2021 shared task on learning from disagreements as well as numerous panels at the International Society for Humor Studies Conference.  https://logological.org/ 
-  </p>
-  <p>
-<b>Anne-Gwenn Bosser</b> has been an associate professor at the ENIB (France) since 2013, and a member of Lab-STICC (CNRS UMR 6285) where she leads the COMMEDIA team. Before that, she was a senior lecturer at Teesside University in the UK. She is interested in computational narratives and narrative generation. She co-chaired the International Conference in Interactive Digital Storytelling in 2020. She is a member of the French Association for Artificial Intelligence AFIA and organises a jam on generation of funny and poetic texts.  https://labsticc.fr/en/directory/bosser-anne-gwenn 
-  </p>
-  <p>Humanities/translation</p>
-  <p>
-<b>Élise Mathurin</b> has been an associate professor at the University of Western Brittany (Brest, France) since september 2019. Her research focuses on English linguistics. She is a member of the laboratory HCTI EA-4249. She is also the current head of the Master’s degree in translation and interpretation of the University of Western Brittany: Master Rédacteur / Traducteur. E. Mathurin is also involved in the SEA-EU project JokeR and in the organization of the workshops Mots/Machines: Do machines have a sense of humor? She participates in the supervision of JOKER’s interns. 
-  </p>
-  <p>
-<b>Radia Hannachi</b> is an Assistant Professor at the University of South Brittany. Her research interests focus on the use of ICT in language learning and teaching; corpus linguistics and data-driven learning; distance learning, learning-to-learn and autonomisation in language learning. R. Hannachi and S. Araújo will integrate pun translation and analysis in their language/translation classes to enrich the dataset.
-  </p>
-  <p>
-<b>Sílvia Araújo</b> is an Assistant Professor at the Department of Romance Studies of the University of Minho. Her main research interests are corpus linguistics, technologies applied to languages and digital humanities. Related to these areas, she has coordinated projects funded by FCT (<a href="http://per-fide.ilch.uminho.pt/site.pl/index.en">Perfide, PortLinguE</a>). She is director of the Master's Degree in Digital Humanities and a member of the Steering Committee of the Master's Degree in Translation and Multilingual Communication.  Furthermore, she coordinates the techLING annual international conference, devoted to the application of technology to languages and linguistics, which will reach its sixth edition in 2021. http://cehum.ilch.uminho.pt/researchers/25 
-  </p>
-  <p>
-<b>Fabio Regattin</b> is an Assistant Professor at the Department of Language and Literature, Communication, Education and Society of Università degli Studi di Udine (Italy), where he teaches French-Italian translation. He is also a translator, mainly working for publishers and as a drama translator. He recently authored Traduction et évolution culturelle (L'Harmattan, 2018) and Tradurre un classico della scienza (with Ana Pano Alamán, Bononia University Press, 2015); he also edited two volumes on self-translation: Autotraduction - Pratiques, théories, histoires (Emil, 2020) and Gli scrittori si traducono (with Alessandra Ferraro, Emil, 2019). 
-  </p>
-  <p>
-Other colleagues involved in the JOKER project:
-  <ul>
-    <li>Benoît Jeanjean (HCTI EA-4249, UBO), Latin Professor, translator, chief of the <a href="https://www.univ-brest.fr/libros/">LIBROS+</a> project</li>
-    <li>Gaëlle Le Corre (EA 4451 CRBC, UBO), English Linguistics Lecturer</li>
-    <li>Mohamed Saki (HCTI EA-4249, UBO), English Linguistics Lecturer</li>
-    <li>Sergio Portelli (Associate Professor, Head of Department of Translation, University of Malta)</li>
-    <li>Ġorġ Mallia (Media & Communications department, Faculty of Media & Knowledge Sciences, University of Malta), Associate Professor, specialist in humour</li>
-    <li>Monika Bokiniec (Department of Aesthetics and Philosophy of Culture, Faculty of Social Sciences, University of Gdansk), Associate Professor, specialist in humour</li>
-    <li>Gordan Matas (University of Split, Croatia)</li>
-  </ul>
-  </p>
-  <p>
-Interns - Technical Translation/Redaction Master’s Degree’s Students (UBO): Adrien Couaillet, Ludivine Grégoire, Orlane Puchalski
-  </p>
-<h3>Details of the expected target audience and how to reach them</h3>
-  <p>
-The  target audience are students and researchers in IR (task 1), NLP (task 2&3), and translation (task 2&3). Students in translation can train neural network models. We will also encourage manual runs (students in translation, foreing language teaching - especially tasks 2 & 3) to enhance data for the next editions. 
-  </p>
-  <p>
-We plan to spread the information via the following channels:
-  <ul>
-    <li>Mailing lists: SIGIR, info-ic, madics, clef, ntcir, bulle-i3, ln, nlp-seminar, romip, <a href=mailto:"TRANSLATIO@jiscmail.ac.uk">TRANSLATIO@jiscmail.ac.uk</a>, organizers’ university mailing lists</li>
-    <li>Social network promotion</li>
-    <li>Information on organizers’ personal pages, the JOKER project network</li>
-    <li>Advertising Labs at CLEF 2021 and ECIR 2022 and other conferences, workshops and local events, e.g. the Mots-Machines seminar in Brest 2022,  <a href="https://frenchtech-brestplus.bzh/vous-avez-aime-brest-is-ai-en-2020-vous-adorerez-les-ai-days-bzh-en-2021/">AI (artificial intelligence) DAYS.BZH</a>, AESLA <a href="https://aesla2020.udc.es/">(Spanish Society for Applied Linguistics)</a> , AFIA <a href="http://afia-competitions.fr/2020-introduction/">(French Association for Artificial Intelligence)</a> jams on generating poetic and funny texts</li>
-  </ul>
+
 <h3>Expected length of the workshop at the conference is half-day:</h3>
   <ul>
     <li>Opening speech 15 min</li>
