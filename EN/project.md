@@ -5,7 +5,7 @@
 
 [Home](index) | Project | [Partners](partners) | [Contact Us](contact) | [Tools](tools) | [<img src="drapeau FR.png" width="20">](https://motsmachines.github.io/joker/FR/projet)
 <br>
-  <p>
+  <p align="center">
   [CLEF Workshop JOKER]("https://motsmachines.github.io/joker/EN")
   <h2 align="center">Automatic Pun and Humour Translation</h2>
   </p>
